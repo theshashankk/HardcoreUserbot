@@ -21,7 +21,7 @@ async def _(event):
     if (x==2):
       await event.edit("**Accio**")
     if (x==3):
-      await event.edit("**Aguamenti**")
+      await event.edit("**Aguanti**")
     if (x==4):
       await event.edit("**Alora**")
     if (x==5):
